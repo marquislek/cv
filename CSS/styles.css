@@ -71,6 +71,12 @@ p {
   bottom: 310px;
 }
 
+@media (max-width:900px) {
+.comp-img{
+  width:100%;
+}
+}
+
 .intro {
   width: 30%;
   margin: auto;
@@ -139,3 +145,5 @@ p {
   position: relative;
   top: 1px;
 }
+
+
